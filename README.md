@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Ffetch.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Ffetch?ref=badge_shield)
+
 This repository hosts the [Fetch Standard](https://fetch.spec.whatwg.org/).
 
 ### Code of conduct
@@ -90,3 +92,7 @@ If you can commit to this repository, see the
 
 Tests can be found in the `fetch/` directory of
 [web-platform-tests](https://github.com/w3c/web-platform-tests).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Ffetch.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Ffetch?ref=badge_large)
